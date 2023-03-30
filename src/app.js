@@ -17,11 +17,11 @@ async function setActivity() {
         buttons: [
             {
                 label: `AHHHHHHHHHHHHHHHH`,
-                url: `https://discord.com/channels/@me/1013455555702050897/1022353058992242759`,
+                url: `https://web.archive.org/web/20180313151740/http://n41050z.web.fc2.com/burakura.html`,
             },
             {
                 label: `idk`,
-                url: `https://cdn.discordapp.com/attachments/1013455555702050897/1013458217478651904/f12679e09cf41f55de885349cb8453d1523c807f_hq.jpg`,
+                url: `https://wi1dloli.github.io/`,
             }
         ]
     })
